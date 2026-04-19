@@ -8,7 +8,7 @@
   "server": {
     "ip": "flagfish.aternos.host",
     "port": 42426,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
