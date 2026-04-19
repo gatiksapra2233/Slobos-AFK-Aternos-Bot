@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "agent 1",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "flagfish.aternos.host",
+    "ip": "gatiksapraaaaa.aternos.me",
     "port": 42426,
     "version": "1.21.11",
     "try-creative": false
